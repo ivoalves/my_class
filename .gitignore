@@ -1,0 +1,4 @@
+*.pyc
+*.pyo
+**/migrations/*
+my_class/settings_local.py
